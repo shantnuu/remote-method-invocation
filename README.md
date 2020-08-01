@@ -1,7 +1,3 @@
-# Distributed System Assignment - 2 
-Shantanu Das (20171143)
-
---- 
 # Architecture
 The java application uses RMI to invoke methods on an object running in another JVM.
 The whole project comprises of 4 files:-
